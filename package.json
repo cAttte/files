@@ -1,0 +1,9 @@
+{
+    "name": "files",
+    "version": "0.0.0",
+    "bin": {
+        "files": "src/index.js",
+        "file": "src/index.js",
+        "f": "src/index.js"
+    }
+}
